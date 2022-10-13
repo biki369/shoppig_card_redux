@@ -1,0 +1,1 @@
+# shoppig_card_redux
